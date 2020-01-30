@@ -10,7 +10,7 @@ import UIKit
 
 class MainViewController: UITableViewController {
 
-    let restaurantNames = ["1","2","3","4","5","6","7"]
+    let restaurantNames = ["1","2","3","4","5","6","7","8"]
     override func viewDidLoad() {
         super.viewDidLoad()
 
